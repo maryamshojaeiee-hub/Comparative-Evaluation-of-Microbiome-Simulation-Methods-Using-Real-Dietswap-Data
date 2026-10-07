@@ -3,7 +3,7 @@ How realistic are simulated microbiome data? This project evaluates [MIDASim](ht
 
 Assignment for the course "Microbiome Data Analysis", Master of Statistics and Data Science (Bioinformatics), Hasselt University.
 
-[Read the full report →](https://maryamshojaeiee-hub.github.io/Analysis-of-High-Dimensional-Gene-Expression-Data/reports/01_differential_expression.html) · [View the code →](code/01_differential_expression.Rmd)
+[Read the full report →](https://github.com/maryamshojaeiee-hub/Comparative-Evaluation-of-Microbiome-Simulation-Methods-Using-Real-Dietswap-Data/blob/main/report.pdf) · [View the code →](code/01_differential_expression.Rmd)
 
 About the Project
 
